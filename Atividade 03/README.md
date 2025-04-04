@@ -1,13 +1,6 @@
 # Aluno
 Brenno Mendes Sousa - 2023036564995
 
-# Atividade 03 - Programação Orientada a Objetos em Java
-
-## Aluno
-
-**Nome:** Brenno Mendes Sousa  
-**Matrícula:** 2023036564995
-
 ---
 
 ## Descrição Geral
