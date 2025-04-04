@@ -7,7 +7,7 @@ public class calculadora {
         System.out.print("Digite o primeiro número: ");
         double num1 = scanner.nextDouble();
 
-        System.out.print("Digite o operador (+, -, , /): ");
+        System.out.print("Digite o operador (+, -, *, /): ");
         char operador = scanner.next().charAt(0);
 
         System.out.print("Digite o segundo número: ");
