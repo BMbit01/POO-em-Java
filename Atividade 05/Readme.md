@@ -1,6 +1,6 @@
 # Brenno Mendes Sousa
 
-## Disciplina: Programação Orientada a Objetos (POO)
+## Disciplina: Programação Orientada a Objetos e Java(POO)
 
 ### 📚 Atividade 05 – Polimorfismo
 
