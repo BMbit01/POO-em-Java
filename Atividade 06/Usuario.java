@@ -1,5 +1,3 @@
-package Atividades.Atividade_06;
-
 public class Usuario {
     private String nome;
     private int numConta;
