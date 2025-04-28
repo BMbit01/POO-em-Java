@@ -1,4 +1,4 @@
-# Gerenciador de Contatos em Java
+# Gerenciador de Contatos
 
 ## Disciplina: Programação Orientada a Objetos em Java (POO)
 
